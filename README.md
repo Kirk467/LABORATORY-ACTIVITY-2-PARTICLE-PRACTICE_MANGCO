@@ -1,5 +1,5 @@
 **AI DISCLOSURE**
 
-I have used ChatGPT to debug the color changing algorithm as I used a $\color{red}{\text{custom easter egg palette}}$ instead of using random colors
+I have used ChatGPT to debug the color changing algorithm as I used a $\color{blue}{\text{custom}}$ $\color{red}{\text{easter}}$ $\color{green}{\text{egg}}$ paletteinstead of using random colors
 
-Access the project [here](https://kirk467.github.io/M2-LA-1-WEEK-8-MANGCO/).
+Access the project [here](https://kirk467.github.io/LABORATORY-ACTIVITY-2-PARTICLE-PRACTICE_MANGCO/).
